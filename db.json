@@ -1,0 +1,21 @@
+{
+"posts":[
+{
+  "userId": 1,
+  "id": 1,
+  "title": "creating web services  for id 1",
+  "body": "Creating web services data for xamirin"
+}
+{
+  "userId": 2,
+  "id": 2,
+  "title": "creating web services  for id 2",
+  "body": "Creating web services data for xamirin"
+},
+{
+  "userId":3,
+  "id": 3,
+  "title": "creating web services for id 3",
+  "body": "Creating web services data for xamirin"
+}]
+}
